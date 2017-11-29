@@ -59,7 +59,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #322f30;
+    background-color: #000;
 }
 .fa-facebook:hover {
     background-color: #3d5b99;
@@ -71,7 +71,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #322f30;
+    background-color: #000;
 }
 .fa-youtube:hover {
     background-color: #e64a41;
@@ -83,7 +83,7 @@ ul.social-icons {
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
-    background-color: #322f30;
+    background-color: #000;
 }
 .fa-snapchat:hover {
     background-color: #ff0;
