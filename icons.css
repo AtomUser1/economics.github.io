@@ -3,7 +3,7 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #FFF;
-    background: ;
+    background: #3B4990;
     -webkit-font-smoothing: antialiased;
 }
 a {
@@ -34,14 +34,14 @@ ul {
 }
 .footer-social-icons {
     width: 350px;
-    display:block;
+    display: initial;
     margin: 0 auto;
 }
 .social-icon {
     color: #fff;
 }
 ul.social-icons {
-    margin-top: 10px;
+    margin-top: 25px;
 }
 .social-icons li {
     vertical-align: center;
